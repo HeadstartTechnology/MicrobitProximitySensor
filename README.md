@@ -8,3 +8,18 @@ Microbits can be configured to use separate radio channels, so it is possible to
 The Microbit is ideally suited as for this project as it incorporates all required sensors in an affordable and flexible package. The PCB in this project adds a buzzer for sound and batteries for power. Both V1 and V2 are supported.
 
 Please see WIKI for code pictures or download hex files for makecode editor. 
+
+The required electronic components and mechanical parts to build the Proximity Monitoring Board
+ 
+| Component             |  PCB ID       |  Kitronik Stock Code   | Quantity |
+| --------------------- | :-----------: | :--------------------: | :------: |
+| Printed Circuit Board |               | 56108                  | 1        |
+| AA Battery Holder     | BH1, BH2      | 2263                   | 2        |
+| Piezo Buzzer          | BZ1           | 3308                   | 1        |
+| JST Wire              | CN2           | 4159                   | 1        |		
+| Slide Switch          | SW1           | 3422                   | 1        |
+| M3 x 12mm Bolt        |               | 2314                   | 2        |
+| M3 nut                |               | 2315                   | 2        |
+| 6mm M3 nylon Spacer   |               | 2335                   | 2        |
+
+Parts can be order from [Kitronik.co.uk](https://www.kitronik.co.uk)
