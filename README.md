@@ -22,4 +22,4 @@ The required electronic components and mechanical parts to build the Proximity M
 | M3 nut                |               | 2315                   | 2        |
 | 6mm M3 nylon Spacer   |               | 2335                   | 2        |
 
-Parts can be order from [Kitronik.co.uk](https://www.kitronik.co.uk)
+Parts can be ordered from [Kitronik.co.uk](https://www.kitronik.co.uk)
