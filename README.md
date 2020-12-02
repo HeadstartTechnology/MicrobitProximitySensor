@@ -23,3 +23,5 @@ The required electronic components and mechanical parts to build the Proximity M
 | 6mm M3 nylon Spacer   |               | 2335                   | 2        |
 
 Parts can be ordered from [Kitronik.co.uk](https://www.kitronik.co.uk)
+
+A big Thank You to Phil, Kevin and the entire team at Kitronik for supporting this project!
